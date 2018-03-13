@@ -1,0 +1,19 @@
+Pytorch是2017年初由Facebook实验室推出的Deep Learning框架。
+pytorch目前支持linux，OSX两个系统；CPU和GPU两种硬件；Python2.7/3.5/3.6三个平台。
+在笔者看来，Pytorch学习起来容易，而且能够根据个人想法随意构建网络结构。
+构建网络时的forward模块可能比较麻烦（需要用户自己完成，比TensorFlow和Keras要麻烦得多）。但用户可以根据自己的想法，完成向前向后推到。
+
+一些推荐资料（本教程参考了以下内容）：
+
+1.http://pytorch.org/tutorials/
+着重学习以下模块：
+
+Translation with a Sequence to Sequence Network and Attention(http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+Attention Mechanism是目前较为流行的深度学习机制
+
+Reinforcement Learning (DQN) tutorial(http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+强化学习必备
+
+Transfer Learning tutorial(http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+迁移学习入门
+

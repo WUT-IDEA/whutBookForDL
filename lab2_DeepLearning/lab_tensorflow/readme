@@ -1,0 +1,17 @@
+tensorflow在1.0版本之前API变动极大，这导致衍生出许多基于tensorflow的第三方库，类似的有：tflearn,keras等。1.0之后，tensorflow API趋向稳定，但是仍然变动较大。但是就社区活跃度而言，tensorflow仍是用户最多使用的深度学习框架，很多论文和demo都采用的tensorflow编写，而且tensorflow能够集成到移动平台。因此，我们需要达到能够灵活使用tensorflow的程度。
+
+建议使用tensorflow 1.4以上的版本。（教学中使用的是1.2.1版本）。
+
+Google官方给出的tensorflow正式文档已经成就，与最新的版本代码有出入。
+
+推荐以下内容：
+1.基础教程
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
+（中国留学生（PhD）录制的tensorflow教学视频（附有源码），不断跟新中。）
+https://github.com/nlintz/TensorFlow-Tutorials/
+https://github.com/golbin/TensorFlow-ML-Exercises
+https://travis-ci.org/hunkim/DeepLearningZeroToAll
+
+2.tensorflow API
+EN：https://www.tensorflow.org/
+CN：http://www.tensorfly.cn/（非官方）
